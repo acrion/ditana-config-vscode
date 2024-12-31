@@ -1,0 +1,13 @@
+pkgbase = ditana-config-vscode
+	pkgdesc = Ditana vscode configuration
+	pkgver = 1.03
+	pkgrel = 1
+	url = https://code.visualstudio.com/
+	arch = any
+	license = MIT
+	depends = code
+	depends = code-marketplace
+	source = file:///media/stefan/data/Documents/git/my-projects/acrion/ditana/packages/002-ditana-config-vscode/settings.json
+	sha256sums = SKIP
+
+pkgname = ditana-config-vscode
